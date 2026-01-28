@@ -8,7 +8,7 @@ import { DashProfile } from "./components/DashProfile";
 import { UserDashboard } from "./components/UserDashboard";
 import { AddPost } from "./pages/AddPost";
 import { AllPost } from "./pages/AllPost";
-import { Users } from "./pages/users";
+import { Users } from "./pages/Users";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCurrentUser } from "./redux/user/apiCall";
 import { useEffect } from "react";
